@@ -11,3 +11,5 @@
 - https://github.com/Apress/pro-asp.net-mvc-5-platform/tree/master/Chapter%2004/SimpleApp
 - https://github.com/Apress/pro-asp.net-mvc-5-platform/tree/master/Chapter%2005/SimpleApp
 - https://github.com/Apress/pro-asp.net-mvc-5-platform/tree/master/Chapter%2006/RequestFlow
+
+### [Presentation](https://github.com/EPM-RD-NETLAB/ASP.NET.MVC/tree/master/Presentations)
