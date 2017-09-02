@@ -1,7 +1,7 @@
-### Book: [Pro ASP.NET MVC 5 Platform. Adam Freeman. Apress.2014](http://www.apress.com/la/book/9781430265412).
+### Book: 
+[Pro ASP.NET MVC 5 Platform. Adam Freeman. Apress.2014](http://www.apress.com/la/book/9781430265412).
 
 ### Read: 
-#### Part 2: The ASP.NET Platform Foundation 
 - *Chapter 3:* The ASP.NET Life Cycles
 - *Chapter 4:* Modules
 - *Chapter 5:* Handlers
