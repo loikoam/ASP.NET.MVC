@@ -1,5 +1,5 @@
 ### Books & Useful References: 
-[Pro ASP.NET MVC 5. Adam Freeman. Apress. 2013][http://www.apress.com/us/book/9781430265290].
+[Pro ASP.NET MVC 5. Adam Freeman. Apress. 2013](http://www.apress.com/us/book/9781430265290).
  - *Chapter 2:* First MVC Application
  - *Chapter 14:* Overview of MVC Projects
 
