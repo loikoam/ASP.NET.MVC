@@ -2,7 +2,7 @@
 
 This repository accompanies [EPAM RD Training](https://training.by/) **DEVELOPING ASP.NET MVC WEB APPLICATIONS** (Web part) by .NET Lab.
 
-## Modules: 
+## Modules 
 
  - *Module 1:* [The ASP.NET Platform Foundation](https://github.com/EPM-RD-NETLAB/ASP.NET.MVC/tree/master/M1.%20The%20ASP.NET%20Platform%20Foundation)
  - *Module 2:* [Overview of MVC Projects](https://github.com/EPM-RD-NETLAB/ASP.NET.MVC/tree/master/M2.%20Overview%20of%20MVC%20Projects%20)
