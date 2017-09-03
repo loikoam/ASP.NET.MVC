@@ -1,6 +1,6 @@
 ## ASP.NET.MVC
 
-This repository accompanies [EPAM RD Training](https://training.by/) ***DEVELOPING ASP.NET MVC WEB APPLICATIONS*** (Web part) by .NET Lab.
+This repository accompanies [EPAM RD Training](https://training.by/) **DEVELOPING ASP.NET MVC WEB APPLICATIONS** (Web part) by .NET Lab.
 
 ## Modules: 
 
