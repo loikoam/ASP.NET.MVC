@@ -1,7 +1,9 @@
 # ASP.NET.MVC
-This repository accompanies RD EPAM Training "DEVELOPING ASP.NET MVC WEB APPLICATIONS" (Web part) by .NET Lab (2017).
+
+This repository accompanies RD EPAM Training "DEVELOPING ASP.NET MVC WEB APPLICATIONS" (Web part) by .NET Lab.
 
 ## Modules: 
+
  - *Module 1:* [The ASP.NET Platform Foundation](https://github.com/EPM-RD-NETLAB/ASP.NET.MVC/tree/master/M1.%20The%20ASP.NET%20Platform%20Foundation)
  - *Module 2:* [Overview of MVC Projects](https://github.com/EPM-RD-NETLAB/ASP.NET.MVC/tree/master/M2.%20Overview%20of%20MVC%20Projects%20)
  - *Module 3:* [Controllers and Actions](https://github.com/EPM-RD-NETLAB/ASP.NET.MVC/tree/master/M3.%20Controllers%20and%20Actions)
@@ -17,3 +19,7 @@ This repository accompanies RD EPAM Training "DEVELOPING ASP.NET MVC WEB APPLICA
  - *Module 13:* [The ASP.NET Platform Services/](https://github.com/EPM-RD-NETLAB/ASP.NET.MVC/tree/master/M13.%20The%20ASP.NET%20Platform%20Services)
  - *Module 14:* [Security in ASP.NET MVC. ASP.NET Identity](https://github.com/EPM-RD-NETLAB/ASP.NET.MVC/tree/master/M14.%20Security%20in%20ASP.NET%20MVC.%20ASP.NET%20Identity)
  - [A Real Application SportsStore by Adam Freeman](https://github.com/EPM-RD-NETLAB/ASP.NET.MVC/tree/master/SportsStore.%20A%20Real%20Application)
+
+## Releases
+
+Release v1.0.
