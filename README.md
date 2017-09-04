@@ -16,6 +16,6 @@ This repository accompanies [EPAM RD Training](https://training.by/) **DEVELOPIN
  - *Module 10:* [Bundles](https://github.com/EPM-RD-NETLAB/ASP.NET.MVC/tree/master/M10.%20Bundles)
  - *Module 11:* [Filters](https://github.com/EPM-RD-NETLAB/ASP.NET.MVC/tree/master/M11.%20Filters%20)
  - *Module 12:* [Ajax](https://github.com/EPM-RD-NETLAB/ASP.NET.MVC/tree/master/M12.%20Ajax)
- - *Module 13:* [The ASP.NET Platform Services/](https://github.com/EPM-RD-NETLAB/ASP.NET.MVC/tree/master/M13.%20The%20ASP.NET%20Platform%20Services)
+ - *Module 13:* [The ASP.NET Platform Services](https://github.com/EPM-RD-NETLAB/ASP.NET.MVC/tree/master/M13.%20The%20ASP.NET%20Platform%20Services)
  - *Module 14:* [Security in ASP.NET MVC. ASP.NET Identity](https://github.com/EPM-RD-NETLAB/ASP.NET.MVC/tree/master/M14.%20Security%20in%20ASP.NET%20MVC.%20ASP.NET%20Identity)
  - [A Real Application SportsStore by Adam Freeman](https://github.com/EPM-RD-NETLAB/ASP.NET.MVC/tree/master/SportsStore.%20A%20Real%20Application)
